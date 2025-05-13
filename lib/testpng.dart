@@ -24,7 +24,7 @@ class _SettingsPageState extends State<SettingsPage> {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.brown[200],
-                child: const Text("Fe", style: TextStyle(color: Colors.white)),
+                child: const Text("Ke", style: TextStyle(color: Colors.white)),
               ),
               const SizedBox(width: 10),
               const Text("Keval",
