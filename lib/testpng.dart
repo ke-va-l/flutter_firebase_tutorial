@@ -123,7 +123,7 @@ class SettingTile extends StatelessWidget {
         ),
         title: Text(item.title),
         subtitle: Text(item.subtitle),
-        onTap: () {}, // Implement navigation or functionality
+        onTap: () {},
       ),
     );
   }
